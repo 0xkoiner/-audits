@@ -1,9 +1,39 @@
 # Public Portfolio
+
 Hi, I’m 0xKoiner—a security researcher and auditor passionate about helping Web3 projects build safer and more reliable systems. I specialize in providing detailed reviews and security-focused insights to strengthen the blockchain ecosystem.
 
 With experience across the blockchain stack—from protocol design to smart contracts and even the Solidity compiler—I’m here to help your project navigate the complexities of security with care and precision.
 
 Let’s work together to make Web3 a stronger and safer space, one secure contract at a time.
+
+<h3><ins>Table of Contents</ins></h3>
+
+- [Audits](#audits)
+- [Hackatons](#hackatons)
+- [About OxKoiner](#about-OxKoiner)
+
+<hr>
+<br>
+
+# Audits
+
+| Protocol                                                                                    | Date          | Report                                                       | Type                 |      |
+| ------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------ | -------------------- | ---- |
+| [GivingThanks First Flight #28](https://codehawks.cyfrin.io/c/2024-11-giving-thanks)        | November 2024 | [:page_facing_up:](audits-2024/2024-11-giving-thanks.pdf)    | Donation, Contribute | <br> |
+| [TwentyOne First Flight #29](https://codehawks.cyfrin.io/c/2024-11-twentyone)               | December 2024 | [:page_facing_up:](audits-2024/2024-11-TwentyOne.pdf)        | GameFi, Cards        | <br> |
+| [Christmas Dinner First Flight #31](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner) | December 2024 | [:page_facing_up:](audits-2024/2024-12-christmas-dinner.pdf) | Payments, SplitWise  | <br> |
+
+<hr>
+<br>
+
+# Hackatons
+
+| Protocol                                            | Date          | Report                                                                | Place |      |
+| --------------------------------------------------- | ------------- | --------------------------------------------------------------------- | ----- | ---- |
+| [The RektGames (DevCon)](https://therektgames.com/) | November 2024 | [:page_facing_up:](hackatons-challenges-contrests/the-rekt-games.pdf) | 17    | <br> |
+
+<hr>
+<br>
 
 # About OxKoiner
 
