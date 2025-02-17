@@ -23,6 +23,7 @@ Let’s work together to make Web3 a stronger and safer space, one secure contra
 | [TwentyOne First Flight #29](https://codehawks.cyfrin.io/c/2024-11-twentyone)               | December 2024 | [:page_facing_up:](audits-2024/2024-11-TwentyOne.pdf)        | GameFi, Cards        | <br> |
 | [Christmas Dinner First Flight #31](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner) | December 2024 | [:page_facing_up:](audits-2024/2024-12-christmas-dinner.pdf) | Payments, SplitWise  | <br> |
 | [Pieces Protocol First Flight #32](https://codehawks.cyfrin.io/c/2025-01-pieces-protocol) | January 2025 | [:page_facing_up:](audits-2025/2025-01-pieces-protocol.pdf) | NFT, ERC20  | <br> |
+| [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) | January 2025 | [:page_facing_up:](audits-2025/2025-01-diva.pdf) | Donation, Lending  | <br> |
 
 <hr>
 <br>
