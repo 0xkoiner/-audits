@@ -2,7 +2,7 @@
 
 Hi, I’m 0xKoiner—a security researcher and auditor passionate about helping Web3 projects build safer and more reliable systems. I specialize in providing detailed reviews and security-focused insights to strengthen the blockchain ecosystem.
 
-With experience across the blockchain stack—from protocol design to smart contracts and even the Solidity compiler—I’m here to help your project navigate the complexities of security with care and precision.
+With experience across the blockchain stack—from protocol design to smart contracts—I’m here to help your project navigate the complexities of security with care and precision.
 
 Let’s work together to make Web3 a stronger and safer space, one secure contract at a time.
 
